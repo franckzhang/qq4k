@@ -1,0 +1,20 @@
+{
+  "urls": [
+    {
+      "name": "魔方主线",
+      "url": "https://raw.githubusercontent.com/franckzhang/qq4k/refs/heads/main/qq4kdb.json"
+    },
+    {
+      "name": "魔方备用",
+      "url": "https://gitee.com/zhangfranck/db/raw/master/qq4kdb.txt"
+    },
+    {
+      "name":"肥猫备用",
+      "url": "http://我不是.肥猫.live/接口禁止贩卖"
+    },
+    {
+      "name": "星耀备用",
+      "url": "http://115.231.220.139:8666/jiekou1.php"
+    }
+  ]
+}
